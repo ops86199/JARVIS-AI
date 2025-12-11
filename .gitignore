@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Virtual environment
+venv/
+.env/
+
+
+# IDE settings
+.vscode/
+.idea/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+
+# Audio cache (if any)
+audio_cache/
+
+
+# Secret keys (if you store API keys separately)
+*.env
+config.json
